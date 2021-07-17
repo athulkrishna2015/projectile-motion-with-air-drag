@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {section}{\numberline {2}One Dimensional motion }{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Position and velocity of a body - Euler method}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Freely falling body with air drag}{7}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Two Dimensional Motion }{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Projectile motion by Euler method }{8}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Along x direction}{9}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Along y direction}{9}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Projectile motion with air drag}{10}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}x-componet }{10}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}y-component}{11}{subsubsection.3.2.2}%
+\contentsline {section}{\numberline {4}programme for Projectile motion}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}C programme}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Example }{14}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Conclusion }{15}{section.5}%
+\contentsline {section}{\numberline {6}Reference}{15}{section.6}%
